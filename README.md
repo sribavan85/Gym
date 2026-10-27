@@ -24,7 +24,7 @@ Eine einzige HTML-Datei, läuft offline im Browser, speichert alles nur auf dein
 **Option 2, als App auf dem Handy (empfohlen):**
 
 1. In diesem GitHub-Repo unter *Settings → Pages* als Quelle den Branch `main` und den Ordner `/ (root)` wählen. GitHub Pages ist kostenlos.
-2. Nach ein bis zwei Minuten ist die App unter `https://sribavan85.github.io/gym/` erreichbar.
+2. Nach ein bis zwei Minuten ist die App unter `https://sribavan85.github.io/Gym/` erreichbar.
 3. Die Adresse auf dem Handy öffnen und im Browser-Menü **Zum Home-Bildschirm** wählen. Danach startet sie wie eine normale App, auch offline.
 
 ## Apple Health und Oura anbinden (iPhone)
